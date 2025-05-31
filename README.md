@@ -1,5 +1,5 @@
 ### Hi there👋, I'm Vikash Kumar Ray
-Information Security | Software Engineer
+Application Security Consultant
 
 - 🔭 I’m currently working on **Information Security**
 
